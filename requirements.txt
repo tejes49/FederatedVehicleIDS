@@ -1,0 +1,8 @@
+numpy
+pandas
+scikit-learn
+tensorflow
+flwr==1.8.0
+shap
+matplotlib
+joblib
